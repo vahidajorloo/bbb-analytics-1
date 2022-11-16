@@ -1,6 +1,7 @@
 # bbb-analytics
 Application that collect analytics from the BigBlueButton Analytics Callback and put it in a postgresql database for analytics purpose
 
+![Alt Text](https://higheredlab.com/wp-content/uploads/bigbluebutton-analytics.gif)
 
 ## Configuration of the app
 
